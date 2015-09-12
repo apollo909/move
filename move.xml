@@ -1,10 +1,4 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="comment_comment" id="826" x="-261" y="83">
-    <field name="TEXT"></field>
-  </block>
-  <block type="comment_comment" id="399" x="-346" y="93">
-    <field name="TEXT"></field>
-  </block>
   <block type="oled_cleardisplay" id="589" x="133" y="92">
     <next>
       <block type="oled_setcursor" id="598" inline="true">
